@@ -1,4 +1,4 @@
-# download_area
+# GoThermocam download_area
 This is the download area for your DIY Thermocam Go Thermocam containing
 
 1. 3D printable .stl files
