@@ -1,0 +1,1 @@
+This file can be used to create your own GO - Thermocam mounts. Put the female part to fix GTC on your own designed mount.
